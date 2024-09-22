@@ -1,0 +1,6 @@
+[submodule "hugo-theme-zen"]
+	path = hugo-theme-zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/Mainroad"]
+	path = themes/Mainroad
+	url = https://github.com/Vimux/Mainroad.git
