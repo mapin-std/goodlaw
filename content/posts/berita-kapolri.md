@@ -4,8 +4,6 @@ date = 2024-09-22T08:25:27Z
 draft = true
 +++
 
-## Kapolri tunjuk Brigjen Desy Andriani sebagai Dirtipid PPA dan PPO
-
 ![Kapolri](https://cdn.antaranews.com/cache/1200x800/2024/09/22/Bakti-sosial-dan-bantuan-sosial-Polri-19062023-Ada-4.jpg.webp)
 ###### Arsip foto - Kapolri Jenderal Pol Listyo Sigit Prabowo. ANTARA FOTO/Asprilla Dwi Adha/rwa/pri.
 
